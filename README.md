@@ -32,4 +32,4 @@ Market Price (Actual)	$279 per share
 The market price of Apple stock is significantly higher than its intrinsic value, indicating investor optimism and expectations of future innovation and growth.
 
 
-datetime
+
